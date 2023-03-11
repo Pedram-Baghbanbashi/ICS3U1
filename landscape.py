@@ -167,5 +167,4 @@ pygame.quit()
 exit()
 
 #Pygame docs link for Load font section
-
 #https://www.pygame.org/docs/ref/font.html#:~:text=You%20can%20load%20fonts%20from,look%20up%20the%20system%20fonts.
